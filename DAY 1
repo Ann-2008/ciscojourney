@@ -1,0 +1,35 @@
+Welcome into the world of networking !!
+
+Starting the first day with some basic introduction to networking .
+Computer networking is the process of connecting computers and other devices so they can communicate and share data and resources.
+
+----Networking Basics----
+
+->Network – A group of connected devices that communicate with each other.
+->LAN (Local Area Network) – A network covering a small area such as a home, school, or office.
+->WAN (Wide Area Network) – A network that connects devices across large geographical areas. The Internet is the biggest example.
+->IP Address – A unique logical address used to identify a device on a network.
+->MAC Address – A unique hardware address assigned to a network interface.
+->Router – Connects different networks and forwards packets between them.
+->Switch – Connects multiple devices within a local network and forwards data to the appropriate device.
+->Access Point (AP) – Allows wireless devices to connect to a wired network.
+->Packet – A small unit of data transmitted across a network.
+->Protocol – A set of rules that devices follow to communicate.
+->Bandwidth – The maximum amount of data that can be transmitted over a connection in a given time.
+->Wi-Fi – A wireless networking technology used to connect devices to a network.
+->Subnet – A smaller logical division of an IP network.
+->Default Gateway – The device, usually a router, that forwards traffic from one network to another.
+->DNS (Domain Name System) – Converts domain names such as google.com into IP addresses.
+
+
+Let's dive into the concept by learning some basic commands of command prompt
+
+#COMMANDS 
+
+1. hostname
+    -> this command is used to find out the name of the system 
+    -> all the electronic devices are called as host.
+2. systeminfo
+    -> this command is used to know about the system information 
+3. ipconfig 
+    -> this command is used to know with what ip our system is connected 
